@@ -1,0 +1,6 @@
+{
+    "references": [
+        "ET.ReferenceCollector",
+        "ET.UI"
+    ]
+}
