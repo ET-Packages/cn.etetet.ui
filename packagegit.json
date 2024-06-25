@@ -1,0 +1,7 @@
+{
+"Id": 25,
+"Name": "UI",
+"GitDependencies": {
+  "cn.etetet.core": "https://github.com/ET-Packages/cn.etetet.core.git#0.0.1"
+}
+}
