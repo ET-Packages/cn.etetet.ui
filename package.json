@@ -1,7 +1,7 @@
 ﻿{
   "name": "cn.etetet.ui",
   "displayName": "ET.UI",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "unity": "2022.3",
   "description": "et框架实现的一个简单UI",
   "author": {
