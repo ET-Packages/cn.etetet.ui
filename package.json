@@ -14,7 +14,7 @@
   },
   "relatedPackages": {},
   "dependencies": {
-    "cn.etetet.core": "0.0.20"
+    "cn.etetet.core": "0.1.1"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@ET-Packages"
