@@ -1,7 +1,7 @@
 ﻿{
   "name": "cn.etetet.ui",
   "displayName": "ET.UI",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "unity": "2022.3",
   "description": "et框架实现的一个简单UI",
   "author": {
@@ -14,7 +14,7 @@
   },
   "relatedPackages": {},
   "dependencies": {
-    "cn.etetet.core": "1.0.0"
+    "cn.etetet.core": "2.0.0"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@ET-Packages"
